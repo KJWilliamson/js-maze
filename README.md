@@ -3,3 +3,7 @@
 PAGE
 
 https://kjwilliamson.github.io/js-maze/
+
+
+
+![maze](https://user-images.githubusercontent.com/24884380/161319723-af390e85-99a6-4ca5-8f64-c82b201736cc.jpeg)
