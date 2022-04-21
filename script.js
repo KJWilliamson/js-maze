@@ -100,7 +100,7 @@ function checkWin(){
     if (playerP.row === 8 && playerP.cell === 20){
         //return true
 
-        alert("You solved the maze!");
+        document.getElementById("gameWin").innerHTML = "You solved the maze!";
         
     }
 }
