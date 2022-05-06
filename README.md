@@ -1,6 +1,8 @@
 # js-maze
 
-PAGE
+# Need to add mobile capability
+
+# PAGE
 
 https://kjwilliamson.github.io/js-maze/
 
