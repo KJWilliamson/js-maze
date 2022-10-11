@@ -1,8 +1,7 @@
-# js-maze
+# Javascript Halloween Maze
 
-# Need to add mobile capability
+### Need to add mobile capability
 
-# PAGE
 
 https://kjwilliamson.github.io/js-maze/
 
