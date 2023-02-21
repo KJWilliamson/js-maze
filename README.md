@@ -9,7 +9,7 @@ https://javascript-halloween-maze.netlify.app/
 <br>
 
 
-<img src="https://giphy.com/embed/crwvOXFFDQqg3pA4wp" width="480" height="268" frameBorder="0" class="giphy-embed" />
+<img src="https://giphy.com/embed/crwvOXFFDQqg3pA4wp" width="480" height="268" />
 
 https://user-images.githubusercontent.com/24884380/220225109-d09fc594-80de-419b-b028-b0fc81225a5d.mp4
 
