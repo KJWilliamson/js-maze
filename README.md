@@ -4,6 +4,10 @@
 
 ### ##Create a JavaScript game that displays a maze, and lets the player use the cursor keys to move through it one step at a time. The maze is a 2D array of cells which are either floors (passable) or walls (impassable).
 
+https://javascript-halloween-maze.netlify.app/
+
+<br>
+
 
 
 
@@ -36,8 +40,3 @@ Game is won when the player reaches finish
 https://kjwilliamson.github.io/js-maze/
 
 
-https://javascript-halloween-maze.netlify.app/
-
-
-
-![maze](https://user-images.githubusercontent.com/24884380/161319723-af390e85-99a6-4ca5-8f64-c82b201736cc.jpeg)
