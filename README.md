@@ -4,7 +4,12 @@
 
 ### ##Create a JavaScript game that displays a maze, and lets the player use the cursor keys to move through it one step at a time. The maze is a 2D array of cells which are either floors (passable) or walls (impassable).
 
-![Maze](https://user-images.githubusercontent.com/24884380/220224995-7a901f30-11be-44b4-ac05-e1b1f915cd66.gif)
+
+
+
+https://user-images.githubusercontent.com/24884380/220225109-d09fc594-80de-419b-b028-b0fc81225a5d.mp4
+
+
 
 
 
