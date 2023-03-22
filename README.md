@@ -14,7 +14,7 @@ https://javascript-halloween-maze.netlify.app/
 
 
 
-<! --
+<!--
 
 GUIDANCE**
 
