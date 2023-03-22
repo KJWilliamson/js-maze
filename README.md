@@ -14,7 +14,7 @@ https://javascript-halloween-maze.netlify.app/
 
 
 
-
+<! --
 
 GUIDANCE**
 
@@ -33,6 +33,8 @@ Allow user to move through the maze, blocked by walls and cannot move outside th
 Using keyboard events to move player around with arrow keys
 
 Game is won when the player reaches finish
+
+-->
 
 
 https://kjwilliamson.github.io/js-maze/
